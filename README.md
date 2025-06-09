@@ -21,6 +21,21 @@ Este repositório contém o **código-fonte do site institucional**, feito com H
 - Depoimentos reais de empreendedores
 - Rodapé com contatos e redes sociais
 
+## 📋 Desafios Enfrentados e Como Foram Superados
+
+### 1. Construir confiança com pequenos empreendedores  
+No início, muitos pequenos empresários tinham receio de participar dos programas, por medo de investir tempo em algo que não traria resultados concretos.  
+**Solução:** A Aurora Empreendedora focou em oferecer oficinas práticas e resultados palpáveis, além de compartilhar histórias reais de sucesso para gerar confiança e engajamento.
+
+### 2. Adaptar os conteúdos para diferentes níveis de conhecimento  
+Os participantes tinham perfis variados, desde iniciantes até quem já tinha experiência, tornando difícil criar conteúdos que atendam a todos.  
+**Solução:** Foram criados módulos flexíveis e mentorias personalizadas, permitindo que cada empreendedor avançasse no seu próprio ritmo e recebesse o suporte adequado.
+
+### 3. Manter o engajamento ao longo do tempo  
+Muitos inscritos começavam motivados, mas perdiam o foco ou a disciplina para concluir os programas.  
+**Solução:** Implementamos encontros periódicos, grupos de apoio e acompanhamento individual, além de criar uma comunidade colaborativa onde os participantes trocavam experiências.
+
+
 ## 🛠️ Tecnologias utilizadas
 
 - HTML5
@@ -40,3 +55,7 @@ Este repositório contém o **código-fonte do site institucional**, feito com H
 ---
 
 Desenvolvido com 💜 por Aurora Empreendedora
+
+
+⚖️ Licença
+Este projeto está licenciado sob a licença MIT - 
